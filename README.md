@@ -1,4 +1,4 @@
-# Welcome to Sigma's Web Development Course - Hindi Web Development Tutorials! 🚀
+# Welcome to Sigma's Web Development Course 🚀
 
 ## What's Inside:
 
